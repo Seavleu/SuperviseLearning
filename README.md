@@ -1,1 +1,1 @@
-# fcc-MAGIC-SuperviseLearning
+# Report are written in each projects
